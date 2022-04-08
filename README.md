@@ -7,6 +7,10 @@
 
 <!-- /!\ do not modify above this line -->
 
+# BT Customizations
+Open OCA PRs merged
+- (https://github.com/OCA/product-pack/pull/75) product_pack, stock_product_pack
+
 # product-pack
 
 TODO: add repo description.
