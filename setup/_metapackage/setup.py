@@ -9,6 +9,8 @@ setuptools.setup(
     version=version,
     install_requires=[
         'odoo-addon-product_pack>=16.0dev,<16.1dev',
+        'odoo-addon-sale_product_pack>=16.0dev,<16.1dev',
+        'odoo-addon-stock_product_pack>=16.0dev,<16.1dev',
     ],
     classifiers=[
         'Programming Language :: Python',
